@@ -145,11 +145,7 @@ It's about understanding the problem, building the right solution, integrating i
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-
-🌐 Portfolio: [Visit my portfolio](YOUR_PORTFOLIO_URL)
-
-📧 Email: [Contact me](mailto:YOUR_EMAIL)
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/salimalisalim)
 
 ---
 
